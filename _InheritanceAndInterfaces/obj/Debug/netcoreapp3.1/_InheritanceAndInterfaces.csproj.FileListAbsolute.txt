@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\bin\Debug\netcoreapp3.1\_InheritanceAndInterfaces.exe
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\bin\Debug\netcoreapp3.1\_InheritanceAndInterfaces.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\bin\Debug\netcoreapp3.1\_InheritanceAndInterfaces.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\bin\Debug\netcoreapp3.1\_InheritanceAndInterfaces.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\bin\Debug\netcoreapp3.1\_InheritanceAndInterfaces.dll
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\bin\Debug\netcoreapp3.1\_InheritanceAndInterfaces.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\obj\Debug\netcoreapp3.1\_InheritanceAndInterfaces.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\obj\Debug\netcoreapp3.1\_InheritanceAndInterfaces.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\obj\Debug\netcoreapp3.1\_InheritanceAndInterfaces.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\obj\Debug\netcoreapp3.1\_InheritanceAndInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\obj\Debug\netcoreapp3.1\_InheritanceAndInterfaces.dll
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\obj\Debug\netcoreapp3.1\_InheritanceAndInterfaces.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_6\_InheritanceAndInterfaces\obj\Debug\netcoreapp3.1\_InheritanceAndInterfaces.genruntimeconfig.cache
